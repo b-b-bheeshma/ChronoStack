@@ -1,0 +1,9 @@
+Sl.no,Part,Qty,Description,Price(INR),Price(Converted to USD),Amount(USD)
+1,SG90 Servo Motor,4,Servos to drive each disk,142,1.58,6.32
+2,5V Stepper Motor,1,Motor to drive the minute hand,91,0.96,0.96
+3,ULN2003A Driver Module ,1,Stepper motor driver,37,0.39,0.39
+4,ESP32,1,Brains of the clock,388,4.1,4.1
+5,"Acrylic(12x12"")",8,Material of disk (5 + 3 extra for prototyping),520,5.5,44
+6,3D printed parts,20,8 Gears + 5 Disk mounts + enclosure + spare parts,50-800,0.53-8.46,26.42
+7,Shipping and other charges,1,All parts wil be tried to be bought from the same website. Other charges unknown so round offed for an even number,1715,$18.00 ,18
+,,,,,Total,100
